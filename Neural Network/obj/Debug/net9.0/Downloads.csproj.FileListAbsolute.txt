@@ -1,0 +1,14 @@
+C:\Users\Milan\Downloads\Neural Network\bin\Debug\net9.0\Downloads.exe
+C:\Users\Milan\Downloads\Neural Network\bin\Debug\net9.0\Downloads.deps.json
+C:\Users\Milan\Downloads\Neural Network\bin\Debug\net9.0\Downloads.runtimeconfig.json
+C:\Users\Milan\Downloads\Neural Network\bin\Debug\net9.0\Downloads.dll
+C:\Users\Milan\Downloads\Neural Network\bin\Debug\net9.0\Downloads.pdb
+C:\Users\Milan\Downloads\Neural Network\obj\Debug\net9.0\Downloads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milan\Downloads\Neural Network\obj\Debug\net9.0\Downloads.AssemblyInfoInputs.cache
+C:\Users\Milan\Downloads\Neural Network\obj\Debug\net9.0\Downloads.AssemblyInfo.cs
+C:\Users\Milan\Downloads\Neural Network\obj\Debug\net9.0\Downloads.csproj.CoreCompileInputs.cache
+C:\Users\Milan\Downloads\Neural Network\obj\Debug\net9.0\Downloads.dll
+C:\Users\Milan\Downloads\Neural Network\obj\Debug\net9.0\refint\Downloads.dll
+C:\Users\Milan\Downloads\Neural Network\obj\Debug\net9.0\Downloads.pdb
+C:\Users\Milan\Downloads\Neural Network\obj\Debug\net9.0\Downloads.genruntimeconfig.cache
+C:\Users\Milan\Downloads\Neural Network\obj\Debug\net9.0\ref\Downloads.dll
